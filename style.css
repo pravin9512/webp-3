@@ -1,0 +1,12 @@
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.movie_head i{
+    float: right;
+}
+.achievement_text span{
+color: orange;
+}
